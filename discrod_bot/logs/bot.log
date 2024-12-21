@@ -1,0 +1,112 @@
+[2024-12-21 15:53:23] [info] Event triggered: messageCreate
+[2024-12-21 15:53:46] [info] Event triggered: messageCreate
+[2024-12-21 15:55:06] [info] Loaded command: buttonRole
+[2024-12-21 15:55:06] [info] Loaded command: emojiRole
+[2024-12-21 15:55:06] [info] Loaded command: ping
+[2024-12-21 15:55:07] [info] Bot logged in successfully!
+[2024-12-21 15:55:07] [info] Event triggered: ready
+[2024-12-21 15:55:34] [info] Loaded command: buttonRole
+[2024-12-21 15:55:34] [info] Loaded command: emojiRole
+[2024-12-21 15:55:34] [info] Loaded command: ping
+[2024-12-21 15:55:50] [info] Bot logged in successfully!
+[2024-12-21 15:56:08] [info] Event triggered: ready
+[2024-12-21 15:56:52] [info] Event triggered: messageCreate
+[2024-12-21 15:58:05] [info] Event triggered: messageCreate
+[2024-12-21 15:59:04] [info] Event triggered: messageCreate
+[2024-12-21 16:01:48] [info] Loaded command: buttonRole
+[2024-12-21 16:01:48] [info] Loaded command: emojiRole
+[2024-12-21 16:01:48] [info] Loaded command: ping
+[2024-12-21 16:01:54] [info] Loading event: ready
+[2024-12-21 16:01:56] [info] Loading event: interactionCreate
+[2024-12-21 16:01:56] [info] Loading event: messageCreate
+[2024-12-21 16:01:57] [info] Loading event: messageReactionAdd
+[2024-12-21 16:01:58] [info] Loading event: emojiRole
+[2024-12-21 16:01:59] [info] Bot logged in successfully!
+[2024-12-21 16:01:59] [info] Event triggered (once): ready
+[2024-12-21 16:02:15] [info] Event triggered: messageCreate
+[2024-12-21 16:02:31] [info] Event triggered: messageCreate
+[2024-12-21 16:02:36] [info] Event triggered: messageCreate
+[2024-12-21 16:02:37] [info] Event triggered: messageCreate
+[2024-12-21 16:03:53] [info] Event triggered: messageCreate
+[2024-12-21 16:05:20] [info] Event triggered: messageCreate
+[2024-12-21 16:05:45] [info] Event triggered: messageCreate
+[2024-12-21 16:11:43] [info] Event triggered: messageCreate
+[2024-12-21 16:15:14] [info] Loaded command: buttonRole
+[2024-12-21 16:15:14] [info] Loaded command: emojiRole
+[2024-12-21 16:15:14] [info] Loaded command: ping
+[2024-12-21 16:15:22] [info] Bot logged in successfully!
+[2024-12-21 16:20:12] [info] Loaded command: buttonRole
+[2024-12-21 16:20:12] [info] Loaded command: emojiRole
+[2024-12-21 16:20:12] [info] Loaded command: ping
+[2024-12-21 16:20:16] [info] Bot logged in successfully!
+[2024-12-21 16:26:24] [info] Loaded command: buttonRole
+[2024-12-21 16:26:25] [info] Loaded command: emojiRole
+[2024-12-21 16:26:27] [info] Loaded command: ping
+[2024-12-21 16:26:29] [info] Bot logged in successfully!
+[2024-12-21 16:28:50] [info] Loaded command: buttonRole
+[2024-12-21 16:28:50] [info] Loaded command: emojiRole
+[2024-12-21 16:28:50] [info] Loaded command: ping
+[2024-12-21 16:28:51] [info] Bot logged in successfully!
+[2024-12-21 16:29:06] [info] Loaded command: buttonRole
+[2024-12-21 16:29:06] [info] Loaded command: emojiRole
+[2024-12-21 16:29:06] [info] Loaded command: ping
+[2024-12-21 16:29:08] [info] Bot logged in successfully!
+[2024-12-21 16:34:50] [info] Loaded command: buttonRole
+[2024-12-21 16:34:50] [info] Loaded command: emojiRole
+[2024-12-21 16:34:50] [info] Loaded command: ping
+[2024-12-21 16:34:50] [info] Loading event: ready
+[2024-12-21 16:34:50] [info] Loading event: interactionCreate
+[2024-12-21 16:34:50] [info] Loading event: messageCreate
+[2024-12-21 16:34:50] [info] Loading event: messageReactionAdd
+[2024-12-21 16:34:50] [info] Loading event: emojiRole
+[2024-12-21 16:34:51] [info] Bot logged in successfully!
+[2024-12-21 16:34:51] [info] Event triggered (once): ready
+[2024-12-21 16:35:10] [info] Event triggered: messageCreate
+[2024-12-21 16:35:16] [info] Event triggered: messageCreate
+[2024-12-21 16:35:19] [info] Event triggered: interactionCreate
+[2024-12-21 16:35:29] [info] Event triggered: interactionCreate
+[2024-12-21 16:38:16] [info] Loaded command: buttonRole
+[2024-12-21 16:38:16] [info] Loaded command: emojiRole
+[2024-12-21 16:38:16] [info] Loaded command: ping
+[2024-12-21 16:38:16] [info] Loading event: ready
+[2024-12-21 16:38:16] [info] Loading event: interactionCreate
+[2024-12-21 16:38:16] [info] Loading event: messageCreate
+[2024-12-21 16:38:16] [info] Loading event: messageReactionAdd
+[2024-12-21 16:38:16] [info] Loading event: emojiRole
+[2024-12-21 16:38:17] [info] Bot logged in successfully!
+[2024-12-21 16:38:17] [info] Event triggered (once): ready
+[2024-12-21 16:38:33] [info] Event triggered: messageCreate
+[2024-12-21 16:38:39] [info] Event triggered: messageCreate
+[2024-12-21 16:38:42] [info] Event triggered: interactionCreate
+[2024-12-21 16:42:06] [error] Error creating role: Unable to convert "RANDOM" to a number.
+[2024-12-21 16:42:54] [info] Loaded command: buttonRole
+[2024-12-21 16:42:54] [info] Loaded command: emojiRole
+[2024-12-21 16:42:54] [info] Loaded command: ping
+[2024-12-21 16:42:54] [info] Loading event: ready
+[2024-12-21 16:42:54] [info] Loading event: interactionCreate
+[2024-12-21 16:42:54] [info] Loading event: messageCreate
+[2024-12-21 16:42:54] [info] Loading event: messageReactionAdd
+[2024-12-21 16:42:54] [info] Loading event: emojiRole
+[2024-12-21 16:42:55] [info] Bot logged in successfully!
+[2024-12-21 16:42:55] [info] Event triggered (once): ready
+[2024-12-21 16:43:08] [info] Event triggered: messageCreate
+[2024-12-21 16:43:13] [info] Event triggered: messageCreate
+[2024-12-21 16:43:15] [info] Event triggered: interactionCreate
+[2024-12-21 16:43:16] [info] darkseid_sh added the Gamer role via button interaction.
+[2024-12-21 16:43:23] [error] Error in interactionCreate: Invalid Form Body
+role_id[NUMBER_TYPE_COERCE]: Value "Gamer" is not snowflake.
+[2024-12-21 16:43:56] [info] Loaded command: buttonRole
+[2024-12-21 16:43:56] [info] Loaded command: emojiRole
+[2024-12-21 16:43:56] [info] Loaded command: ping
+[2024-12-21 16:43:56] [info] Loading event: ready
+[2024-12-21 16:43:56] [info] Loading event: interactionCreate
+[2024-12-21 16:43:56] [info] Loading event: messageCreate
+[2024-12-21 16:43:56] [info] Loading event: messageReactionAdd
+[2024-12-21 16:43:56] [info] Loading event: emojiRole
+[2024-12-21 16:43:57] [info] Bot logged in successfully!
+[2024-12-21 16:43:57] [info] Event triggered (once): ready
+[2024-12-21 16:44:03] [info] Event triggered: messageCreate
+[2024-12-21 16:44:03] [info] Event triggered: messageCreate
+[2024-12-21 16:44:06] [info] Event triggered: interactionCreate
+[2024-12-21 16:44:07] [info] darkseid_sh removed the Gamer role via button interaction.
+[2024-12-21 16:44:07] [error] Error in interactionCreate: Interaction has already been acknowledged.
